@@ -9,7 +9,7 @@ function Card() {
     <div className="w-full">
       <div className="flex flex-col justify-center max-w-xs bg-white mx-auto shadow-xl rounded-xl p-5">
         <div>
-          <img className="w-32 mx-auto rounded-full " src="https://source.unsplash.com/random" alt="profile" />
+          <img className="w-32 mx-auto rounded-full " src="https://source.unsplash.com/random/?city,night" alt="profile" />
         </div>
 
         <div className="text-center mt-5">
